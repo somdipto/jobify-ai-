@@ -1,4 +1,4 @@
-# 🌟 Jobify AI 🌟 
+# 🌟 Jobify AI 🌟
 
 ![Deploy](https://img.shields.io/badge/Deployed%20on-Vercel-brightgreen)
 ![HTML](https://img.shields.io/badge/HTML-100%25-orange)
